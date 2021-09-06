@@ -5,6 +5,6 @@ public class HttpClient {
     }
 
     public int getStatuscode() {
-        return 0;
+        return 200;
     }
 }
